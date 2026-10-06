@@ -51,3 +51,6 @@ La ecuación de Einstein es $E = mc^2$. Esta ecuación es muy famosa.
 $$
 x = 2^4*y + 1
 $$
+
+![Foto1](cienciadedatos.jpg)
+![GIF1](gif.gif)
